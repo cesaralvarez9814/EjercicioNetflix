@@ -120,6 +120,9 @@ li.perfiles:not(:last-child) {
 .avatar3{
     background-image: url("/ProyectoNetflix/login/img/cara.jpg");
 }
+.avatar4{
+    background-image: url("/ProyectoNetflix/login/img/panda.jpg");
+}
 .nombre-perfil{
     line-height: 1.2em;
     min-height: 1.8em;

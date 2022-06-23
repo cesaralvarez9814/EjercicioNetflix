@@ -69,6 +69,7 @@ button{
     color: #fff;
     width: 100%;
     padding: 16px;
+    cursor: pointer;
 }
 .check{
     top: 0;

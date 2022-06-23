@@ -1,0 +1,108 @@
+body{
+    background-image: url("/ProyectoNetflix/login/img/fondologin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    direction: ltr;
+}
+.logo{
+   font-size:  16px;
+   height: 65px;
+   width: 187px;
+   vertical-align: middle;
+   fill: #e50914;
+   line-height: 90px;
+}
+main{
+    background-color: rgba(0,0,0,.75);
+    margin-bottom: 90px;
+    padding: 60px 68px 40px;
+    height: 530px;
+    width: 314px;
+    border-radius: 4px;
+    display: flex;
+    -webkit-box-orient:vertical;
+    flex-direction: column;
+    -webkit-box-direction: normal;
+    margin: 0 auto -236px;
+}
+h1{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    padding: 0;
+    margin-bottom: 28px;
+}
+.email{
+    background: #333;
+    border-radius: 4px;
+    border: 0;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    padding: 16px 20px 0;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.contrasena{
+    background: #333;
+    border-radius: 4px;
+    border: 0;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    padding: 16px 20px 0;
+    margin-top: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+button{
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 24px 0 12px;
+    background: #e50914;
+    color: #fff;
+    width: 100%;
+    padding: 16px;
+}
+.check{
+    top: 0;
+    left: 0;
+    margin-right: 10px;
+    box-sizing: border-box;
+    padding: 0;
+    color: inherit;
+    font: inherit;
+    margin: 0;
+    background: #e6e6e6;
+    background-color: rgb(115, 115, 115);
+    cursor: default;
+    appearance: auto;
+}
+.remember{
+    color: #b3b3b3;
+    font-size: 13px;
+    font-weight: 500;
+    margin-right: 50px;
+}
+a{
+    color: #b3b3b3;
+    font-size: 13px;
+    font-weight: 500;
+    padding-top: 2px;
+    text-decoration: none;
+}
+.login-abajo{
+    margin-top: 30px;
+    color: #737373;
+}
+.suscribete{
+    font-size: 16px;
+    color: #fff;
+    background-color: transparent;
+}
